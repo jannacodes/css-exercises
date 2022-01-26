@@ -1,10 +1,7 @@
-p {
-    font-size: 20px;
-}
-
 div p {
     background-color: yellow;
     color: red; 
+    font-size: 20px;
     text-align: center;
 }
 
@@ -12,13 +9,10 @@ div p {
 /* alternate solution*/
 
 /*
-.text {
-    font-size: 20px;
-}
-
 .container .text {
     background-color: yellow;
     color: red; 
+    font-size: 20px;
     text-align: center;
 }
 */
