@@ -1,4 +1,4 @@
-div p {
+.container p {
     background-color: yellow;
     color: red; 
     font-size: 20px;
@@ -6,10 +6,19 @@ div p {
 }
 
 
-/* alternate solution*/
+/* alternate solutions*/
 
 /*
 .container .text {
+    background-color: yellow;
+    color: red; 
+    font-size: 20px;
+    text-align: center;
+}
+*/
+
+/*
+div p {
     background-color: yellow;
     color: red; 
     font-size: 20px;
